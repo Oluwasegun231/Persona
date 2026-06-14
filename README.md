@@ -1,3 +1,3 @@
 # Persona
 Product Design Project Showingcasing Ui/Ux ,   Persona
-Understanding user pain point and empathy 
+This project defines  primary user personas representing typical gym-goers. These personas were developed based on common motivations, behaviors, goals, and pain points in the fitness industry.
